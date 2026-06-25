@@ -1,6 +1,9 @@
 # Hi there 👋
 
-<!-- 在这里写你的自我介绍 -->
+- 👀 我对电子感兴趣
+- 🌱 我目前正在学习 STM32，Python
+- 💞️ 我希望在嵌入式方面进行合作
+- 📫 如何联系我...
 
 ## 🐍 My Contributions Got Eaten
 
